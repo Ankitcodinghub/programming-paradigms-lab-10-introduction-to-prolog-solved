@@ -1,0 +1,1 @@
+# programming-paradigms-lab-10-introduction-to-prolog-solved
